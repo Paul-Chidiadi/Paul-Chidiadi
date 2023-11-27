@@ -1,4 +1,4 @@
-![Banner](https://github.com/Paul-chidiadi/PaulChidi/blob/main/Full-Stack%20developer.png)
+![Banner](https://github.com/Paul-Chidiadi/PaulChidi/blob/main/Full-Stack%20devloper.png)
 
 <h2>Hey There! 👋</h2>
 
