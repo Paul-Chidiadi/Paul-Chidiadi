@@ -1,4 +1,4 @@
-![Banner](https://github.com/Paul-chidiadi/PaulChidi/blob/master/Full-Stack%20developer.png)
+![Banner](https://github.com/Paul-chidiadi/PaulChidi/blob/main/Full-Stack%20developer.png)
 
 <h2>Hey There! 👋</h2>
 
@@ -25,7 +25,7 @@
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:paulchidiadi@gmail.com">![paulchidiadi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/paul-chidiadi-5a2631231">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:paulchidiadi@gmail.com">![paulchidiadi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/paul-chidiadi-5a2631231">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <h2>Support 💗</h2>
 
